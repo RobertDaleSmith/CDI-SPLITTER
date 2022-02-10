@@ -1,0 +1,15 @@
+#Build Results
+*.o
+*.d
+*.eep
+*.elf
+*.hex
+*.map
+*.srec
+
+#User Specific Files
+*.atsuo
+
+#Misc
+Thumbs.db
+.DS_Store

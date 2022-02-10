@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "CDI-SPLITTER")(type "KiCad")(uri "${KIPRJMOD}/CDI-SPLITTER.pretty")(options "")(descr ""))
+)
