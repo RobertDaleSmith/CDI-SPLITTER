@@ -540,7 +540,7 @@
   )
 
   (symbol (lib_id "Connector:Mini-DIN-8") (at 132.08 111.76 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 9aaf0514-2927-4794-badc-4cc58d8d9fe8)
     (property "Reference" "J2" (id 0) (at 133.7311 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
